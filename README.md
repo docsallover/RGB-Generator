@@ -13,9 +13,9 @@ The code utilizes HTML, CSS, and JavaScript to achieve the color generation func
 1. HTML: Defines the web page structure, including headings, sliders, and an input field to display the color code.
 2. CSS: Styles the page layout, sliders, and input field for a user-friendly interface.
 3. JavaScript: Implements the core logic:
-    -Retrieves slider values when adjusted.
-    -Generates the RGB color code string based on the slider values.
-    -Updates the page background color and the input field value with the generated color code.
+    - Retrieves slider values when adjusted.
+    - Generates the RGB color code string based on the slider values.
+    - Updates the page background color and the input field value with the generated color code.
 
 ## How to Use
 1. Save the code as an HTML file (e.g., rgb_generator.html).
